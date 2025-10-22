@@ -24,3 +24,7 @@
 <hr />
 
 ## 4. <a name="supplemental">Supplemental Resources</a>
+
+* *[Citrix Systems Official Website](https://www.citrix.com/)*
+* *[Horizon 8 VDI Official Webpage](https://www.omnissa.com/products/horizon-8/)*
+* *[HP Anywhere Official Webpage](https://www.hp.com/us-en/services/workforce-solutions/workforce-computing/digital-workspaces/anyware-standard.html)*
