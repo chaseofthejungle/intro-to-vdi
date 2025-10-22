@@ -1,6 +1,6 @@
 # Intro to Virtual Desktop Infrastructure (VDI) Guide
 
-**TODO**: A brief introductory guide to Virtual Desktop Infrastructure and its implications.
+**Description/Overview:** Virtual Desktop Infrastructure (VDI) is a centralized server technology in which a network's users can access virtualized Operating System desktop environments over their preferred network devices. VDI provides benefits for both network users and their organizations: securely cloud-hosted data, centralization of apps and app data, access to virtual workspaces from a variety of devices, remote access solutions, and straightforward management of network and system resources.
 
 #### Table of Contents
 
