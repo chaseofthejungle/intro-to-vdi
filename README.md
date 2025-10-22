@@ -48,7 +48,12 @@
 
 ## 4. <a name="vendors">VDI Vendors</a>
 
-(TODO)
+*Some examples of popular VDI vendors include:*
+
+* **[Amazon](https://aws.amazon.com/workspaces-family/)**, whose WorkSpaces platform offers a variety of cloud-based options.
+* **[Citrix Systems](https://www.citrix.com/)**, whose proprietary HDX protocol enables users to send data over highly secure and low bandwidth network connections.
+* **[Nutanix](https://www.nutanix.com/library/datasheets/nci-vdi)**, whose Nutanix Cloud Infrastructure - Virtual Desktop Infrastructure (NCI-VDI) solutions integrate with some other vendor platforms.
+* **[Omnissa](https://www.omnissa.com/products/horizon-8/)**, which is a rebranding of the VMWare Horizon platform.
 
 <hr />
 
