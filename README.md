@@ -20,7 +20,15 @@
 
 ## 2. <a name="types">VDI Types</a>
 
-(TODO)
+VDI can be categorized into two types, based on environment retainment:
+
+* *Persistent VDI:* Every user, upon first log-in, is assigned to a unique virtual desktop image (distributed from a resource pool) that they can configure and save to.
+  + Modifications to these desktop environments are retained, including after connections end and new connections are made.
+  + The flexibility and permanence of this VDI compensate for rapid workflows and complicated user needs. The user experience is similar to operating with traditionally-hosted OS interfaces.
+* *Non-Persistent VDI:* Users are aligned with generic desktops, allocated from a pool, for any individual session. Although user customizations are not retained when sessions are logged out of, this type of VDI tends to be less expensive and supportive of greater scalability.
+  + This form of VDI can involve users being distributed the same desktop image for each session or to be assigned ones entirely at random.
+  + There are are resource advantages to this form of VDI: in particular, expenses are lowered and data center management operations are less complicated (especially due to not needing to host many unique virtual OS images).
+    - Additionally, it may be more user-practical to implement Non-Persistent VDI, such as for users who just need a VDI session to complete a one-time task.
 
 <hr />
 
