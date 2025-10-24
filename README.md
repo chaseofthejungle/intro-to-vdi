@@ -7,9 +7,10 @@
 1. [Virtual Desktop Infrastructure (VDI) Components](#components)
 2. [VDI Operations Explained](#explained)
 3. [VDI Types](#types)
-4. [VDI Vendors](#vendors)
-5. [VDI Advantages and Disadvantages](#benefits)
-6. [Supplemental Resources](#supplemental)
+4. [VDI by Industry](#industry)
+5. [VDI Vendors](#vendors)
+6. [VDI Advantages and Disadvantages](#benefits)
+7. [Supplemental Resources](#supplemental)
 
 <hr />
 
@@ -46,7 +47,13 @@
 
 <hr />
 
-## 4. <a name="vendors">VDI Vendors</a>
+## 4. <a name="industry">VDI by Industry</a>
+
+(TODO)
+
+<hr />
+
+## 5. <a name="vendors">VDI Vendors</a>
 
 *Some examples of popular VDI vendors include:*
 
@@ -57,13 +64,13 @@
 
 <hr />
 
-## 5. <a name="benefits">VDI Advantages and Disadvantages</a>
+## 6. <a name="benefits">VDI Advantages and Disadvantages</a>
 
 (TODO)
 
 <hr />
 
-## 6. <a name="supplemental">Supplemental Resources</a>
+## 7. <a name="supplemental">Supplemental Resources</a>
 
 * *[Citrix Systems Official Website](https://www.citrix.com/)*
 * *[Horizon 8 VDI Official Webpage](https://www.omnissa.com/products/horizon-8/)*
