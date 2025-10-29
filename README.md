@@ -49,8 +49,15 @@
 
 ## 4. <a name="industry">VDI by Industry</a>
 
-(TODO)
+*Some popular industry uses of VDI include:*
 
+* **Information Technology (IT) and Telecommunications:** Heavy centralized management and virtualization needs provide use cases for VDI. 
+* **Banking, Financial Services, and Insurance (BFSI):** VDI is utilized for secure remote access and online banking services, as well as satisfying compliance standards for confidential data. 
+* **Education:** VDI offers faculty, staff, and students with easy, portable access to various resources, and provides a centralized and highly scalable mechanism to manage OSes, apps, and potentially, accounts. Furthermore, budget-conscious schools can lower expenses through hardware and OS virtualization via system images.
+* **Healthcare:** VDI helps provide confidentiality for patient data (mitigating risks of breaches) and empower workers to log in quickly. 
+* **Government:** VDI assists with secure management of confidential data and consistent application of security protocols, and offers remote work possibilities. 
+* **Retail and Manufacturing:** VDI provides centralized app management and data transfer and secure remote access connections, as well as optimization of complex and resource heavy operations.
+  
 <hr />
 
 ## 5. <a name="vendors">VDI Vendors</a>
