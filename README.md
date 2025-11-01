@@ -9,7 +9,7 @@
 3. [VDI Types](#types)
 4. [VDI by Industry](#industry)
 5. [VDI Vendors](#vendors)
-6. [VDI Advantages and Disadvantages](#benefits)
+6. [VDI Limitations](#limitations)
 7. [Supplemental Resources](#supplemental)
 
 <hr />
@@ -78,9 +78,16 @@
 
 <hr />
 
-## 6. <a name="benefits">VDI Advantages and Disadvantages</a>
+## 6. <a name="limitations">VDI Limitations</a>
 
-(TODO)
+*Although there are many advantages of VDI, it does have some limitations...*
+
+* **Security must be continuously monitored and maintained.**
+  + Endpoint authentication, sessions, and OS image configurations and data must be audited for indicators of compromise.
+    - Encrypting data-in-transit, checking for client device compliance for anti-malware and software/hardware versioning, and implementing Single Sign-On (SSO) can mitigate risks.
+* **High-level performance is not inherently assured.**
+  + However, VDI processing technology has performed considerably since the initial widespread implementations of VDI.
+    - Active technical support/user help desk and regular monitoring and auditing can help considerably.
 
 <hr />
 
