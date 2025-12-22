@@ -60,10 +60,12 @@
 
 *It is important to note that VDI has benefits that span across many industries...*
 
-* **Protection of Confidential Data:** Risks of data breaches are reduced, as sensitive data is centralized on dedicated servers (rather than user devices, which may or may not be secure).
-* **Decreased Costs and Complexity:** Virtualization simplifies device and user management, and infrastructure costs are lessened due to system requirements of endpoints being less demanding.
-* **Enhanced Flexibility:** Complete desktop environments can be accessed securely by all clients and on client devices, while employees benefit from work-from-home possibilities.
-* **Increased Productivity:** Login processes are simplified and faster, and security checks assist with systems availability by assuring that all clients are utilizing the same security protocols and latest versions of apps. 
+| Benefit | Explanation |
+| :---: | :---: |
+| **Protection of Confidential Data** | Risks of data breaches are reduced, as sensitive data is centralized on dedicated servers (rather than user devices, which may or may not be secure). |
+| **Decreased Costs and Complexity** | Virtualization simplifies device and user management, and infrastructure costs are lessened due to system requirements of endpoints being less demanding. |
+| **Enhanced Flexibility** | Complete desktop environments can be accessed securely by all clients and on client devices, while employees benefit from work-from-home possibilities. |
+| **Increased Productivity** | Login processes are simplified and faster, and security checks assist with systems availability by assuring that all clients are utilizing the same security protocols and latest versions of apps. |
   
 <hr />
 
